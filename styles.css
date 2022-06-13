@@ -12,7 +12,7 @@
 
 .body{
 
-    background: url("../img/bg.jpg"); 
+    background: url("/bg.jpg"); 
 
     min-height: 100vh;
 
