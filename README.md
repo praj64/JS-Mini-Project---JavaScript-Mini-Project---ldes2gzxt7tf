@@ -1,5 +1,8 @@
 # Snake Game 
 
+Add Multiple of images
+Add Multiple of Music
+
 Tech Stack:- HTML, CSS AND JAVASCRIPT
 
 
